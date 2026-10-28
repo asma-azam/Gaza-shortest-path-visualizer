@@ -1,0 +1,54 @@
+23 30
+Beit_Lahia 31.5464 34.4951
+Erez_Crossing 31.5590 34.5650
+Jabalia 31.5272 34.4835
+Beit_Hanoun 31.5353 34.5358
+Gaza_City 31.5017 34.4668
+Shati_Camp 31.5280 34.4440
+Al_Mughraqa 31.4550 34.4100
+Nuseirat_Camp 31.4470 34.3910
+Al_Nuseirat 31.4486 34.3920
+Az_Zawayda 31.4290 34.3720
+Deir_Al_Balah_Camp 31.4210 34.3660
+Deir_Al_Balah 31.4175 34.3505
+Al_Bureij 31.4370 34.4050
+Al_Maghazi 31.4230 34.3860
+Wadi_As_Salqa 31.3820 34.3560
+Al_Qarara 31.3730 34.3210
+Al_Amal 31.3530 34.3150
+Bani_Suheila 31.3420 34.3250
+Khan_Younis 31.3462 34.3036
+Khan_Younis_Camp 31.3500 34.2970
+Khirbat_Al_Adas 31.2880 34.2660
+Rafah_Camp 31.2860 34.2580
+Rafah 31.2969 34.2435
+Beit_Lahia Erez_Crossing
+Beit_Lahia Jabalia
+Beit_Lahia Beit_Hanoun
+Erez_Crossing Beit_Hanoun
+Jabalia Beit_Hanoun
+Jabalia Gaza_City
+Gaza_City Shati_Camp
+Gaza_City Al_Mughraqa
+Shati_Camp Al_Mughraqa
+Al_Mughraqa Nuseirat_Camp
+Al_Mughraqa Al_Bureij
+Nuseirat_Camp Al_Nuseirat
+Al_Nuseirat Az_Zawayda
+Az_Zawayda Deir_Al_Balah
+Deir_Al_Balah Deir_Al_Balah_Camp
+Deir_Al_Balah Al_Bureij
+Al_Bureij Al_Maghazi
+Al_Maghazi Wadi_As_Salqa
+Wadi_As_Salqa Al_Qarara
+Al_Qarara Al_Amal
+Al_Amal Bani_Suheila
+Bani_Suheila Khan_Younis
+Khan_Younis Khan_Younis_Camp
+Al_Qarara Khan_Younis_Camp
+Khan_Younis Khirbat_Al_Adas
+Khirbat_Al_Adas Rafah_Camp
+Rafah_Camp Rafah
+Khan_Younis Rafah
+Deir_Al_Balah Wadi_As_Salqa
+Al_Nuseirat Al_Bureij
